@@ -27,7 +27,7 @@ ascrap.product(url).then(function(product) {
 
 ```js
 {
-	productId: '113388742',
+  productId: '113388742',
   title: 'Aquecedor Halogênico Oscilante Cadence Comodità AQC300 com Alça para Transporte',
   price: '124.9000015258789',
   image: 'http://imagens.americanas.com.br/produtos/01/00/item/113388/7/113388742SZ.jpg'
@@ -61,13 +61,13 @@ ascrap.listProducts(urls).then(function(list) {
 
 ```js
 {
-	productId: '113388742',
+  productId: '113388742',
   title: 'Aquecedor Halogênico Oscilante Cadence Comodità AQC300 com Alça para Transporte',
   price: '124.9000015258789',
   image: 'http://imagens.americanas.com.br/produtos/01/00/item/113388/7/113388742SZ.jpg'
 },
 {
-	productId: '9924566',
+  productId: '9924566',
   title: 'Smartwatch U8 Branco Relógio Inteligente Bluetooth Android Iphone',
   price: '119.9000015258789',
   image: 'http://imagens.americanas.com.br/produtos/01/00/sku/9924/5/9924561SZ.jpg'
